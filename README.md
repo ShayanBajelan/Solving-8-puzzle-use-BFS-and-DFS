@@ -1,4 +1,4 @@
-# Solving-8-puzzle-use-BFS-and-DFS
+# Solving-8puzzle-use-BFS-and-DFS
 
 This project consists of two parts:
 1)Node class
