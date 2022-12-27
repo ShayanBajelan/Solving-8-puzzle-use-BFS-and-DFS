@@ -22,3 +22,8 @@ This project consists of two parts:
 
 2.3.1)Everything is similar to solveBFS and contains, but with the difference that by changing the types of openList and closedList from queue to stack, I prepare the ground to have a deep check instead of a surface check, and if we do not get the answer to the desired depth of the user, check Nodes stored in openList, I will start building the rest of the tree up to that depth and I will start checking the depth of each of the branches. As all the branches were checked in depth and we did not get the answer to the depth of the user's content, it will be printed. Sorry I haven't got the answer yet.
 
+
+3)Tets
+
+![image](https://user-images.githubusercontent.com/61280030/209735313-33cb2f08-77b8-41f6-b046-7658e484c5d4.png)
+
